@@ -15,7 +15,7 @@ A Python command-line game where the user tries to guess a randomly generated nu
 1. Make sure Python is installed
 2. Run the file:
    
-- python yourfilename.py
+- python Python-Guessing-Game.py
 
 ## How It Works
 
